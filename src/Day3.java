@@ -24,7 +24,7 @@ public class Day3
         
         p.move(size);
         
-        e.setColor(Color.MAGENTA);
+        e.setColor(Color.CYAN);
         
         //move over and draw another square
         e.turn(-90);
